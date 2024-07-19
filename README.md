@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [pratyushnishchal007.github.io/portfolio/](pratyushnishchal007.github.io/portfolio/)
 
-- 💬 Ask me about **java,spring mvc**
+- 💬 Ask me about **java,spring mvc,mysql,JDBC,Hibernate**
 
 - 📫 How to reach me **pratyushnishchal@gmail.com**
 
