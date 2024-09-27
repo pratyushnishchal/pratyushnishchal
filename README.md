@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prayush Nishchal</h1>
+<h1 align="center">Hi 👋, I'm Pratyush Nishchal</h1>
 <h3 align="center">CSE Graduate from Vellore Institute of Technology || Passionate about Coding, Web development</h3>
 
 - 🌱 I’m currently learning **spring boot**
